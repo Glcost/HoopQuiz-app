@@ -44,7 +44,7 @@ Este projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 * **Expo AV & Vibration**[cite: 1]
 
 <p align="center">
-  <img src="../quiz-app/assets//images/hooper.gif" alt="Demonstração do HoopQuiz" width="250" />
+  <img src="../assets//images/hooper.gif" alt="Demonstração do HoopQuiz" width="250" />
 </p>
 
 ---
