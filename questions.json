@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "question": "Quantos jogadores de cada equipe ficam em quadra durante uma partida de basquete?",
+        "options": [
+            "4 jogadores",
+            "5 jogadores",
+            "6 jogadores",
+            "7 jogadores"
+        ],
+        "correctAnswer": "5 jogadores"
+    },
+    {
+        "id": 2,
+        "question": "Qual jogador é o maior pontuador da história da NBA em temporada regular?",
+        "options": [
+            "Michael Jordan",
+            "Kobe Bryant",
+            "LeBron James",
+            "Kareem Abdul-Jabbar"
+        ],
+        "correctAnswer": "LeBron James"
+    },
+    {
+        "id": 3,
+        "question": "Quanto tempo dura cada período (quarto) em uma partida oficial da NBA?",
+        "options": [
+            "10 minutos",
+            "12 minutos",
+            "15 minutos",
+            "20 minutos"
+        ],
+        "correctAnswer": "12 minutos"
+    },
+    {
+        "id": 4,
+        "question": "Qual jogador detém o recorde de mais cestas de 3 pontos convertidas na história da NBA?",
+        "options": [
+            "Ray Allen",
+            "Reggie Miller",
+            "Klay Thompson",
+            "Stephen Curry"
+        ],
+        "correctAnswer": "Stephen Curry"
+    },
+    {
+        "id": 5,
+        "question": "Qual é o tempo limite de posse de bola para uma equipe tentar o arremesso na NBA e FIBA?",
+        "options": [
+            "14 segundos",
+            "20 segundos",
+            "24 segundos",
+            "30 segundos"
+        ],
+        "correctAnswer": "24 segundos"
+    },
+    {
+        "id": 6,
+        "question": "Qual destas siglas representa a posição de Armador principal no basquete?",
+        "options": [
+            "PG (Point Guard)",
+            "SG (Shooting Guard)",
+            "PF (Power Forward)",
+            "C (Center)"
+        ],
+        "correctAnswer": "PG (Point Guard)"
+    },
+    {
+        "id": 7,
+        "question": "Quantos pontos vale um arremesso convertido da linha de lance livre?",
+        "options": [
+            "1 ponto",
+            "2 pontos",
+            "3 pontos",
+            "0.5 ponto"
+        ],
+        "correctAnswer": "1 ponto"
+    },
+    {
+        "id": 8,
+        "question": "Qual franquia da NBA venceu o primeiro título da história da liga em 1947 (como Philadelphia Warriors)?",
+        "options": [
+            "Boston Celtics",
+            "Golden State Warriors",
+            "Los Angeles Lakers",
+            "New York Knicks"
+        ],
+        "correctAnswer": "Golden State Warriors"
+    },
+    {
+        "id": 9,
+        "question": "Qual jogador marcou incríveis 100 pontos em uma única partida da NBA em 1962?",
+        "options": [
+            "Wilt Chamberlain",
+            "Kobe Bryant",
+            "Michael Jordan",
+            "Elgin Baylor"
+        ],
+        "correctAnswer": "Wilt Chamberlain"
+    },
+    {
+        "id": 10,
+        "question": "Quais são as duas franquias mais vitoriosas da história da NBA, empatadas com o maior número de títulos?",
+        "options": [
+            "Chicago Bulls e Los Angeles Lakers",
+            "Boston Celtics e Golden State Warriors",
+            "Boston Celtics e Los Angeles Lakers",
+            "Chicago Bulls e San Antonio Spurs"
+        ],
+        "correctAnswer": "Boston Celtics e Los Angeles Lakers"
+    },
+    {
+        "id": 11,
+        "question": "Qual jogador é conhecido pelo apelido 'The Greek Freak'?",
+        "options": [
+            "Luka Dončić",
+            "Giannis Antetokounmpo",
+            "Nikola Jokić",
+            "Kristaps Porziņģis"
+        ],
+        "correctAnswer": "Giannis Antetokounmpo"
+    },
+    {
+        "id": 12,
+        "question": "Qual seleção masculina conquistou a medalha de ouro nas Olimpíadas de Atenas em 2004, eliminando os EUA nas semifinais?",
+        "options": [
+            "Espanha",
+            "Itália",
+            "Sérvia",
+            "Argentina"
+        ],
+        "correctAnswer": "Argentina"
+    },
+    {
+        "id": 13,
+        "question": "Qual lendário treinador conquistou 11 títulos da NBA comandando o Chicago Bulls e o Los Angeles Lakers?",
+        "options": [
+            "Gregg Popovich",
+            "Pat Riley",
+            "Phil Jackson",
+            "Steve Kerr"
+        ],
+        "correctAnswer": "Phil Jackson"
+    },
+    {
+        "id": 14,
+        "question": "A que distância do centro da cesta fica a linha de 3 pontos no topo do garrafão na NBA?",
+        "options": [
+            "6,75 metros",
+            "7,24 metros",
+            "8,00 metros",
+            "6,25 metros"
+        ],
+        "correctAnswer": "7,24 metros"
+    },
+    {
+        "id": 15,
+        "question": "Em que ano o histórico 'Dream Team' dos Estados Unidos dominou o basquete nas Olimpíadas de Barcelona?",
+        "options": [
+            "1988",
+            "1992",
+            "1996",
+            "2000"
+        ],
+        "correctAnswer": "1992"
+    },
+    {
+        "id": 16,
+        "question": "Qual pivô venceu o prêmio de MVP das Finais em 2023 liderando o Denver Nuggets ao seu primeiro título da NBA?",
+        "options": [
+            "Joel Embiid",
+            "Nikola Jokić",
+            "Anthony Davis",
+            "Bam Adebayo"
+        ],
+        "correctAnswer": "Nikola Jokić"
+    }
+]
