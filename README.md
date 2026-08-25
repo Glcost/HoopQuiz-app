@@ -43,6 +43,9 @@ Este projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 * **React Native Animated API**[cite: 1]
 * **Expo AV & Vibration**[cite: 1]
 
+
+![Demonstração do HoopQuiz](../quiz-app/assets//images/hooper.gif)
+
 ---
 
 ## 📂 Estrutura do Código
