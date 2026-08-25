@@ -43,9 +43,7 @@ Este projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 * **React Native Animated API**
 * **Expo AV & Vibration**
 
-<p align="center">
-  <img src="../assets//images/hooper.gif" alt="Demonstração do HoopQuiz" width="250" />
-</p>
+
 
 ---
 
@@ -57,6 +55,13 @@ O projeto é dividido em dois fluxos principais:
 2. **`QuizScreen.tsx`**: Tela centralizadora da lógica do quiz, mapeando o arquivo externo de perguntas (`questions.json`), validando pontuações, controlando o fluxo de avanços e tratando efeitos interativos (vibração e animações).
 
 ---
+
+
+![Demonstração do HoopQuiz](./assets/images/hooper.gif)
+
+
+
+
 
 ## 🚀 Como Executar o Projeto
 
