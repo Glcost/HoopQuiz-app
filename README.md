@@ -57,7 +57,7 @@ O projeto é dividido em dois fluxos principais:
 ---
 
 
-![Demonstração do HoopQuiz](./assets/images/hooper.gif)
+![Demonstração do HoopQuiz](../quiz-app/assets/images/hooper.gif)
 
 
 
