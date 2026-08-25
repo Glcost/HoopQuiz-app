@@ -29,7 +29,7 @@ Para tornar a experiência do usuário mais imersiva e responsiva, foi implement
 Durante o desenvolvimento desta melhoria, foi necessário pesquisar o funcionamento de referências mutáveis com o Hook `useRef` para instanciar os valores animados sem disparar re-renderizações desnecessárias da tela[cite: 1]. Aprendemos a coordenar sequências de animações lineares (`Animated.sequence` e `Animated.timing`) com a propriedade `useNativeDriver: true` para garantir desempenho fluido de 60 FPS em dispositivos móveis, além de gerenciar estados condicionais para disparar o gatilho de erro apenas no momento exato da escolha da alternativa errada.
 
 ### Demonstração
-*O comportamento visual e o feedback tátil podem ser testados diretamente em tempo de execução no aplicativo Expo Go ao interagir com as opções de respostas incorretas do quiz[cite: 1].*
+*O comportamento visual e o feedback tátil podem ser testados diretamente em tempo de execução no aplicativo Expo Go ao interagir com as opções de respostas incorretas do quiz*
 
 ---
 
@@ -37,11 +37,11 @@ Durante o desenvolvimento desta melhoria, foi necessário pesquisar o funcioname
 
 Este projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 
-* **[React Native](https://reactnative.dev/)**[cite: 1]
-* **[Expo](https://expo.dev/)**[cite: 1]
-* **React Hooks** (`useState`, `useRef`, `useEffect`)[cite: 1]
-* **React Native Animated API**[cite: 1]
-* **Expo AV & Vibration**[cite: 1]
+* **[React Native](https://reactnative.dev/)**
+* **[Expo](https://expo.dev/)**
+* **React Hooks** (`useState`, `useRef`, `useEffect`)
+* **React Native Animated API**
+* **Expo AV & Vibration**
 
 <p align="center">
   <img src="../assets//images/hooper.gif" alt="Demonstração do HoopQuiz" width="250" />
@@ -53,8 +53,8 @@ Este projeto foi construído utilizando as seguintes tecnologias e bibliotecas:
 
 O projeto é dividido em dois fluxos principais:
 
-1. **`Index.tsx`**: Tela de boas-vindas (*Landing/Home*) que convida o usuário para o desafio antes de montar a árvore de componentes do quiz[cite: 2].
-2. **`QuizScreen.tsx`**: Tela centralizadora da lógica do quiz, mapeando o arquivo externo de perguntas (`questions.json`), validando pontuações, controlando o fluxo de avanços e tratando efeitos interativos (vibração e animações)[cite: 1].
+1. **`Index.tsx`**: Tela de boas-vindas (*Landing/Home*) que convida o usuário para o desafio antes de montar a árvore de componentes do quiz.
+2. **`QuizScreen.tsx`**: Tela centralizadora da lógica do quiz, mapeando o arquivo externo de perguntas (`questions.json`), validando pontuações, controlando o fluxo de avanços e tratando efeitos interativos (vibração e animações).
 
 ---
 
